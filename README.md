@@ -1,4 +1,4 @@
-# 🌟 The Data Realm Projects 🌟
+# 🌟 Data Realm Projects 🌟
 
 **Unveiling the Mysteries of Data, One Project at a Time**
 
